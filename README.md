@@ -1,6 +1,1 @@
-- 👋 Hi, I’m David, I'm a full strack developer. UK born but living in Guatemala.
-- 👀 I’m interested in full stack development, add creation and generally anything that is creating something awesome and I can apply my skills to!
-- 💞️ I’m looking to collaborate on any projects that need some assistance
-- 📫 You can e-mail me @ david@rocketpig.co
-
-
+David is a full-stack developer with a Bachelor's degree in Computer Science and six years of software development experience. He is experienced in front-end technologies such as HTML5, CSS3, and JavaScript. David has also developed and maintained various JavaScript applications and has exceptional knowledge of React, Nextjs and Nodejs.
